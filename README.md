@@ -22,7 +22,7 @@ _This simple web application allows users input various verbs, adjectives, and n
 * _Navigate to MadLibs.Solution/MadLibs in your terminal._
 * _Run the command below_
 > dotnet run
-* _Copy and paste the local host url provided in the terminal into a web browser and enjoy!_
+* _Copy and paste the local host URL provided in the terminal into a web browser and enjoy!_
 
 ## Known Bugs
 
