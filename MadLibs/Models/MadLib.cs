@@ -11,7 +11,6 @@ namespace MadLibs.Models
     public string Noun04 { get; set; }
     public string Verb01 { get; set; }
     public string Verb02 { get; set; }
-    public string Verb03 { get; set; }
     public string TimeOfDay { get; set; }
   }
 }
